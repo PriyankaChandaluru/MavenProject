@@ -3,7 +3,7 @@ package com.ex1;
 public class SampleEx1 {
 
 	
-public static void main(String args[]) {
+public static void main(String[] args) {
 
 	
 	int x = 5;
